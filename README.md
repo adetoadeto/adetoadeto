@@ -1,4 +1,4 @@
-# Hi, I am Oluwatomi Adedun 👋
+# Hello, I am Oluwatomi Adedun 👋
 
 Full Stack Software Developer with experience building modern web applications using React, Next.js, TypeScript, Node.js, and SQL databases. I enjoy solving real-world problems through clean code, scalable architecture, and intuitive user experiences.
 
@@ -27,7 +27,7 @@ Full Stack Software Developer with experience building modern web applications u
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-### Backend
+### Backend and APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -36,7 +36,7 @@ Full Stack Software Developer with experience building modern web applications u
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 
-### Databases & ORMs
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -78,10 +78,9 @@ Full Stack Software Developer with experience building modern web applications u
 
 ---
 
-## 📫 Connect With Me
+## 📫 Get In Touch
 
 - Email: tomiadedun@email.com
-- Portfolio: pending
 
 ---
 
