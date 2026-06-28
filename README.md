@@ -14,42 +14,37 @@ Full Stack Software Developer with experience building modern web applications u
 ---
 
 ## 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
-- React
-- Next.js
-- TypeScript
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Redux
-- Framer Motion
-- UI/UX
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,materialui" />
+</p>
 
 ### Backend
-- Node.js
-- Express.js
-- Python
-- Php
-- Laravel
-- REST APIs
 
-### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
 
-### Cloud
-- Git & GitHub
-- Vercel
-- Render
+### Databases & ORMs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,vercel,netlify" />
+</p>
 
 ### Tools
-- VS Code
-- Postman
-- Figma
-- npm
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,npm" />
+</p>
 
 --- 
 ## 📌 What I Build
