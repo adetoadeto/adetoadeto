@@ -4,7 +4,7 @@ Full Stack Software Developer with experience building modern web applications u
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
 - 💻 Full Stack Developer specializing in modern JavaScript and TypeScript ecosystems.
 - 🎨 Experienced in building responsive, accessible, and performant user interfaces.
