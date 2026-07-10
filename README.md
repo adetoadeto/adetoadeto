@@ -86,6 +86,6 @@ A Full Stack Software Developer with experience building modern web applications
 
 <p align="center">
   <em>
-    "Clean and aesthetic, not boring and overwhelming."
+    "Clean and aesthetic, not overwhelming and boring."
   </em>
 </p>
