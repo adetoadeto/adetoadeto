@@ -77,6 +77,15 @@ A FullStack Software Developer with experience building modern web applications 
 - Testing and best development practices
 
 ---
+## 💻 Projects
+
+| Name | Overview | Technologies | Website Url |
+|------|----------|-------------|------------|
+| **Knowledge Drill** | A full featured quiz platform for web developers. | React.js • Express.js • MongoDB • AI Model Integration | [View Project](https://knowledgedrill.onrender.com/) |
+| **Lenscraft Photography** | A responsive modern portfolio website for a photography brand. | Next.js • TypeScript • CSS Modules | [View Project](https://lenscraft-portfolio-website.vercel.app/
+) |
+| **Todo List** | A task management application with full CRUD functionality. | ReactJs • Tailwind CSS • ExpressJs • MongoDB  | [View Project](https://todo-app-pgyr.onrender.com) |
+---
 
 ## 📫 Get In Touch
 
