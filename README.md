@@ -56,6 +56,7 @@ A FullStack Software Developer with experience building modern web applications 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 --- 
+
 ## 📌 What I Build
 
 - Full Stack Web Applications
@@ -68,6 +69,16 @@ A FullStack Software Developer with experience building modern web applications 
 
 ---
 
+## 💻 Projects
+
+| Name | Overview | Technologies | Website Url |
+|------|----------|-------------|------------|
+| **Knowledge Drill** | A full featured quiz platform for web developers. | React.js • Express.js • MongoDB • AI Model Integration | https://knowledgedrill.onrender.com/ |
+| **Lenscraft Photography** | A responsive modern portfolio website for a photography brand. | Next.js • TypeScript • CSS Modules | https://lenscraft-portfolio-website.vercel.app/|
+| **Todo List** | A task management application with full CRUD functionality. | ReactJs • Tailwind CSS • ExpressJs • MongoDB  | https://todo-app-pgyr.onrender.com |
+
+---
+
 ## 📈 Current Focus
 
 - Building scalable full-stack applications
@@ -76,14 +87,6 @@ A FullStack Software Developer with experience building modern web applications 
 - Performance optimization
 - Testing and best development practices
 
----
-## 💻 Projects
-
-| Name | Overview | Technologies | Website Url |
-|------|----------|-------------|------------|
-| **Knowledge Drill** | A full featured quiz platform for web developers. | React.js • Express.js • MongoDB • AI Model Integration | https://knowledgedrill.onrender.com/ |
-| **Lenscraft Photography** | A responsive modern portfolio website for a photography brand. | Next.js • TypeScript • CSS Modules | https://lenscraft-portfolio-website.vercel.app/|
-| **Todo List** | A task management application with full CRUD functionality. | ReactJs • Tailwind CSS • ExpressJs • MongoDB  | https://todo-app-pgyr.onrender.com |
 ---
 
 ## 📫 Get In Touch
