@@ -1,6 +1,6 @@
 # 👋 Hello, I am Oluwatomi Adedun
 
-A Full-Stack Software Developer with experience building modern web applications using React, Next.js, TypeScript, Node.js, and NoSQL/SQL databases. I enjoy solving real-world problems through clean code, scalable architecture, and intuitive user experiences.
+A Full-Stack Software Developer with experience building modern web applications using tools such React, Next.js, TypeScript, and Node.js to mention a few. I enjoy solving real-world problems through clean code, scalable architecture, and intuitive user experiences.
 
 ---
 
