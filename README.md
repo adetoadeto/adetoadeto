@@ -97,6 +97,6 @@ A Full-Stack Software Developer with experience building modern web applications
 
 <p align="center">
   <em>
-    "Clean and aesthetic, not overwhelming and boring."
+    "The best way to predict the future is to create it - Peter Drucker"
   </em>
 </p>
